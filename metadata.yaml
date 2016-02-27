@@ -1,0 +1,33 @@
+_repo: Travels-in-England-During-the-Reign-of-Queen-Elizabeth-and-Fragmenta-Regalia-Or-Observations-o__1992
+creator:
+  authors:
+  - agent_name: Naunton, Robert, Sir
+    birthdate: 1563
+    deathdate: 1635
+    gutenberg_agent_id: '777'
+    url: http://www.gutenberg.org/2009/agents/777
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Naunton
+  - agent_name: Hentzner, Paul
+    birthdate: 1558
+    deathdate: 1623
+    gutenberg_agent_id: '5944'
+    url: http://www.gutenberg.org/2009/agents/5944
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Description and travel -- Early works to 1800'
+- !lcc 'DA'
+- !lcsh 'Elizabeth I, Queen of England, 1533-1603 -- Contemporaries'
+- !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+title: Travels in England During the Reign of Queen Elizabeth, and Fragmenta Regalia;
+  Or, Observations on Queen Elizabeth, Her Times and Favourites
+url: http://www.gutenberg.org/ebooks/1992
