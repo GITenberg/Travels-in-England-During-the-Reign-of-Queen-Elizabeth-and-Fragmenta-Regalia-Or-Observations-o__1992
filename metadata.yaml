@@ -1,5 +1,5 @@
 _repo: Travels-in-England-During-the-Reign-of-Queen-Elizabeth-and-Fragmenta-Regalia-Or-Observations-o__1992
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -34,6 +34,7 @@ subjects:
 - !lcsh 'Elizabeth I, Queen of England, 1533-1603 -- Contemporaries'
 - !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
 - !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603'
+- GITenberg
 title: Travels in England During the Reign of Queen Elizabeth, and Fragmenta Regalia;
   Or, Observations on Queen Elizabeth, Her Times and Favourites
 url: http://www.gutenberg.org/ebooks/1992
